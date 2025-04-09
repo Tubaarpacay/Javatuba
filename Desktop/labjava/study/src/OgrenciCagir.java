@@ -13,6 +13,6 @@ public class OgrenciCagir {
         hasan.sinif=11;
         hasan.studentId=423;
         hasan.aktif=true;
-        hasan.studentInfo();
+        hasan.studentInfo(); 
     }
 }
